@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/vmJbwNPC/image.png" width="100%" alt="Mendezito_006 Banner"/>
+<img src="https://i.postimg.cc/vmJbwNPC/image.png" width="70%" alt="Mendezito_006 Banner"/>
 
-<img src="https://i.imgur.com/7YV4A9R.gif" width="100%" height="10px"/>
+<img src="https://i.imgur.com/7YV4A9R.gif" width="100%" height="8px"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&lines=BIENVENIDO+AL+CANAL+DE;MENDEZITO_006;DESARROLLADOR+CREATIVO;CREADOR+DE+CONTENIDO;COLOMBIA+STYLEE+LEAD)
 
@@ -11,7 +11,7 @@
 ### 📺 MI CONTENIDO 📺
 
 <a href="https://www.youtube.com/@Mendezito_006">
-  <img src="https://img.shields.io/badge/YOUTUBE-SUSCRIBETE-red?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=30" height="45"/>
+  <img src="https://img.shields.io/badge/YOUTUBE-SUSCRIBETE-red?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=30" height="40"/>
 </a>
 
 ---
@@ -51,8 +51,8 @@
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frjhon776-sudo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjhon776-sudo&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frjhon776-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjhon776-sudo&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
