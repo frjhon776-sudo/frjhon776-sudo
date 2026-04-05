@@ -1,28 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=00c8ff&height=200&section=header&text=Jhon%20Mendez&fontSize=70&animation=fadeIn&fontAlignY=40&desc=%F0%9F%9A%80%20Developer%20%7C%20Creator%20%7C%20Linux%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://i.postimg.cc/vmJbwNPC/image.png" width="100%" alt="Mendezito_006 Banner"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jhon+Mendez;Desarrollador+de+Colombia+Stylee;Amante+de+la+Tecnolog%C3%ADa;%C2%A1Bienvenido+a+mi+espacio!)
+<img src="https://i.imgur.com/7YV4A9R.gif" width="100%" height="10px"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&lines=BIENVENIDO+AL+CANAL+DE;MENDEZITO_006;DESARROLLADOR+CREATIVO;CREADOR+DE+CONTENIDO;COLOMBIA+STYLEE+LEAD)
 
 ---
 
-### 🚀 PROYECTO DESTACADO
-**[Colombia Stylee Launcher](https://colombiastyleeoficialv2.base44.app)**
-*Innovación y estilo en un solo lugar.*
+### 📺 MI CONTENIDO 📺
 
-[![WhatsApp](https://img.shields.io/badge/Comunidad-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GJtV0uoMeGn2Z5wUgR5NCO)
-[![Web](https://img.shields.io/badge/Sitio-Oficial-00c8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://colombiastyleeoficialv2.base44.app)
+<a href="https://www.youtube.com/@Mendezito_006">
+  <img src="https://img.shields.io/badge/YOUTUBE-SUSCRIBETE-red?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=30" height="45"/>
+</a>
+
+---
+
+### 🤝 PROYECTOS DESTACADOS
+<p>
+  <strong><a href="https://colombiastyleeoficialv2.base44.app">COLOMBIA STYLEE LAUNCHER</a></strong><br>
+  Innovación y estilo. Únete a la revolución.
+</p>
+
+[![Web Oficial](https://img.shields.io/badge/Sitio_Oficial-00c8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://colombiastyleeoficialv2.base44.app)
+[![Comunidad](https://img.shields.io/badge/Comunidad_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GJtV0uoMeGn2Z5wUgR5NCO)
 
 ---
 
 </div>
 
-## 👨‍💻 Sobre mí
-Soy un **creador de contenido y desarrollador** apasionado por la personalización y el rendimiento. Actualmente enfocado en el ecosistema de **Colombia Stylee** y en dominar herramientas de desarrollo modernas.
+## 👨‍💻 Sobre mí (Mendezito_006)
+¡Hola! Soy un **creador de contenido y desarrollador** apasionado por la tecnología, el diseño y la personalización. Mi enfoque es crear experiencias digitales únicas que destaquen por su rendimiento y estética.
 
-* 🛠️ **En qué estoy trabajando:** Mejorando el launcher y expandiendo nuestra comunidad.
-* 🐧 **Mi entorno:** Usuario de Linux y amante de la terminal.
-* ⚡ **Mi objetivo:** Crear software que no solo funcione, sino que tenga estilo.
+* 🎥 **Mi Canal:** Comparto contenido sobre desarrollo, gameplays y tutoriales que potenciarán tus habilidades.
+* 🛠️ **En qué estoy:** Liderando el desarrollo de **Colombia Stylee** y explorando nuevas fronteras en UI/UX.
+* ⚡ **Mi lema:** Si funciona, pero no tiene estilo, aún no está terminado.
 
 ---
 
@@ -31,15 +43,16 @@ Soy un **creador de contenido y desarrollador** apasionado por la personalizaci�
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI_Design-FF61F6?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Video_Edit-FF61F6?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Mis Estadísticas
+## 📊 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frjhon776-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjhon776-sudo&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frjhon776-sudo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjhon776-sudo&layout=compact&theme=radical&hide_border=true" height="170" />
 </div>
 
 ---
@@ -47,5 +60,5 @@ Soy un **creador de contenido y desarrollador** apasionado por la personalizaci�
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=frjhon776-sudo&label=Perfil%20Visto&color=00c8ff&style=flat" alt="Vistas" />
   <br>
-  <sub>© 2026 JhonMz2006 | Colombia Stylee</sub>
+  <sub>© 2026 Mendezito_006 | Colombia Stylee</sub>
 </div>
