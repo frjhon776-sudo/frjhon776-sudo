@@ -49,10 +49,13 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub (Actualizadas)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frjhon776-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjhon776-sudo&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://img.shields.io/badge/REPOS--Publicos-1-blue?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONTRIBUCIONES--Año-10--%2B-green?style=flat&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/LENGUAJE--TOP-MD%2C%20JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/NIVEL--DEVELOPER-Iniciando-grey?style=flat&logo=buildkite&logoColor=white" />
 </div>
 
 ---
