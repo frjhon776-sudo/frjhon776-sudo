@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/7YV4A9R.gif" width="100%" height="8px"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&lines=BIENVENIDO+AL+CANAL+DE;MENDEZITO_006;DESARROLLADOR+CREATIVO;CREADOR+DE+CONTENIDO;COLOMBIA+STYLEE+LEAD)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&lines=BIENVENIDO+A+REPOSITORIO+DE;Mendezito2006;DESARROLLADOR+CREATIVO;CREADOR+DE+CONTENIDO;COLOMBIA+STYLEE+LEAD)
 
 ---
 
